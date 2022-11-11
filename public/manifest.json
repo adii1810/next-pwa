@@ -1,0 +1,28 @@
+{
+    "name": "Next PWA demo",
+    "short_name": "Next PWA",
+    "icons": [
+      {
+        "src": "icon192x192.jpg",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose":"maskable"
+      },
+      {
+        "src": "icon192x192.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+  
+      {
+        "src": "icon512x512.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
